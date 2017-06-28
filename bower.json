@@ -1,0 +1,18 @@
+{
+  "name": "BowerRabbit",
+  "authors": [
+    "Oscar Montaño Ayala <oayala@nuxiba.com>"
+  ],
+  "description": "Rabbit",
+  "main": "AgentController.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
